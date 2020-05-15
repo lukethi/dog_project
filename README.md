@@ -8,6 +8,8 @@
 
 This is my submission for Udacity. My code can be found in dog_project/dog_app-v1.ipynb. Thank you!
 
+The corresponding blog post can be found here: https://sites.google.com/view/cnn-dog-human
+
 
 # Original README:
 ## Project Overview
